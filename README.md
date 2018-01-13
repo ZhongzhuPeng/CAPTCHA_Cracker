@@ -2,10 +2,11 @@
 
 Implement convolutional neural network to extract the features from the CAPTCHA images.
 
-Train the model with 640,000 images
-Test acurracy: 99.8%
+Train the model with 640,000 images.
 
-Version information
+Test acurracy: 99.8%.
+
+Version information:
 - python: 3.5.2
 - Keras: 2.1.2
 - TensorFlow: 1.4.0
