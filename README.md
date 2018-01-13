@@ -18,6 +18,8 @@ Version information
 
 # Wrong predictions
 
+In rare cases, the model cannot disting '0' and 'O'
+
 ![](https://github.com/ZhongzhuPeng/CAPTCHA_Cracker/blob/master/test_img/N0DU.jpg?raw=true)    
 Real: N0DU    Predict: NODU
 
