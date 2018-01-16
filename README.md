@@ -4,7 +4,7 @@ Implement convolutional neural network to extract the features from the CAPTCHA 
 
 Train the model with 640,000 images.
 
-Test acurracy: 99.8%.
+Test acurracy: 98.7%.
 
 Version information:
 - python: 3.5.2
