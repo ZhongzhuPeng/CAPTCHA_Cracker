@@ -4,12 +4,17 @@ Implement convolutional neural network to extract the features from the CAPTCHA 
 
 Train the model with 640,000 images.
 
-Test acurracy: 98.7%.
+Highest achieved test acurracy: 98.7%.
 
 Version information:
 - python: 3.5.2
 - Keras: 2.1.2
 - TensorFlow: 1.4.0
+
+# Training Model:
+
+![]()
+
 
 # Samples
 ![](https://github.com/ZhongzhuPeng/CAPTCHA_Cracker/blob/master/sample_images_of_results/7N43.png?raw=true)
