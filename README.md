@@ -39,7 +39,9 @@ output_layers = [Dense(n_class, activation='softmax',  name='digit_%d'%i)(layers
 
 ![](https://github.com/ZhongzhuPeng/CAPTCHA_Cracker/blob/master/training.png?raw=true)
 
-The total training time is about 1 hours on my laptop with the Nvidia 1050Ti.
+The model is trained with 20 epochs. It takes about 160s per epochs.
+
+The total training time is about 50 minites on my laptop with the Nvidia 1050Ti.
 
 
 # Samples of Predictions
