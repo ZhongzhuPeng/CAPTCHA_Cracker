@@ -1,6 +1,6 @@
 # CAPTCHA_Cracker
 
-Implement convolutional neural network to extract the features from the CAPTCHA images.
+Implement convolutional neural network(CNN) to extract the features from the CAPTCHA images.
 
 Use [CAPTCHA](https://github.com/lepture/captcha/) librabry to generate CAPTCHA images.
 
@@ -15,6 +15,8 @@ Version information:
 
 
 # Model
+
+The size of input image is 80x140. We use CNN for feature extraction and use four independant dense layers to output the prediction of four digits.
 
 Python Code | Layers
 ---|---
