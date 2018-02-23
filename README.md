@@ -75,7 +75,7 @@ The total training time is about 55 minites on my laptop with the Nvidia 1050Ti.
 
 # Test
 
-We use 1000 images to test out trained model. The prediction is considered as correct only if all four digits are right. The highest achieved accuracy is 98.7%.
+We use 1000 images to test out trained model. The prediction is considered as correct only if all four digits are right. The highest achieved accuracy is 97.1%.
 
 ```python
 import random
